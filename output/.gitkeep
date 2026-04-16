@@ -1,0 +1,2 @@
+# Output directory — all generated files land here.
+# This folder is safe-jailed; no files can be written outside it.
